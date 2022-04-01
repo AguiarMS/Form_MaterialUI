@@ -4,7 +4,7 @@ Para iniciar o projeto digite no console:
 
 Dependencias Instaladas:
 
-// usando npm
+// usando npm <br>
 `npm install @mui/material @emotion/react @emotion/styled`
 
 // usando yarn
