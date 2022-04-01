@@ -12,7 +12,7 @@ yarn add @mui/material @emotion/react @emotion/styled
 
 
 // usando npm
-// npm install @mui/material @mui/styled-engine-sc styled-components
+ npm install @mui/material @mui/styled-engine-sc styled-components
 
 // usando yarn
 yarn add @mui/material @mui/styled-engine-sc styled-components
@@ -28,10 +28,10 @@ yarn add @mui/material @mui/styled-engine-sc styled-components
 
 ### `Ícones de fonte`
 
-<link
+'<link
   rel="stylesheet"
   href="https://fonts.googleapis.com/icon?family=Material+Icons"
-/>
+/>'
 
 
 ### `Ícones SVG`
