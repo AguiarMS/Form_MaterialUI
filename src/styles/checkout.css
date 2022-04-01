@@ -1,0 +1,75 @@
+.img-logo {
+  width: 200px;
+  height: 35px;
+}
+
+.info-payment{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.div1{
+  width: 50%;
+  margin: 10px 0;
+}
+
+.div2{
+  width: 50%;
+  display: flex;
+  justify-content: flex-end;
+  margin: 10px 0;
+}
+
+.div3{
+  width: 50%;
+  margin: 10px 0;
+}
+
+.div4{
+  width: 50%;
+  display: flex;
+  justify-content: flex-end;
+  margin: 10px 0;
+}
+
+.txt-preco{
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.txt-total{
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.info-client{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.input-numCard{
+  width: 50%;
+}
+
+.input-name-Client{
+  width: 50%;
+  margin-top: 25px;
+}
+
+.input-cvv{
+  width: 42%;
+  margin-top: 25px;
+}
+
+.btn-back{
+  margin: 0 20px;
+}
+
+
+
+
