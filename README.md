@@ -53,6 +53,10 @@ Dependencias Instaladas:
 `yarn add date-fns`
 
 
+![image](https://user-images.githubusercontent.com/40027096/161350027-f41b4a42-9a97-430a-98e8-87e597e06d84.png)
+
+
+
 
 
 
