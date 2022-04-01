@@ -28,10 +28,10 @@ yarn add @mui/material @mui/styled-engine-sc styled-components
 
 ### `Ícones de fonte`
 
-'<link
+`<link
   rel="stylesheet"
   href="https://fonts.googleapis.com/icon?family=Material+Icons"
-/>'
+/>`
 
 
 ### `Ícones SVG`
