@@ -5,26 +5,26 @@ Para iniciar o projeto digite no console:
 Dependencias Instaladas:
 
 // usando npm
-npm install @mui/material @emotion/react @emotion/styled
+`npm install @mui/material @emotion/react @emotion/styled`
 
 // usando yarn
-yarn add @mui/material @emotion/react @emotion/styled
+`yarn add @mui/material @emotion/react @emotion/styled`
 
 
 // usando npm
- npm install @mui/material @mui/styled-engine-sc styled-components
+ `npm install @mui/material @mui/styled-engine-sc styled-components`
 
 // usando yarn
-yarn add @mui/material @mui/styled-engine-sc styled-components
+`yarn add @mui/material @mui/styled-engine-sc styled-components`
 
 ### Dentro do Public.html
 
 ### `Fonte Roboto`
 
-<link
+`<link
   rel="stylesheet"
   href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
-/>
+/>`
 
 ### `Ícones de fonte`
 
@@ -38,19 +38,19 @@ yarn add @mui/material @mui/styled-engine-sc styled-components
 
 
 // usando npm
-npm install @mui/icons-material
+`npm install @mui/icons-material`
 
 // usando yarn
-yarn add @mui/icons-material
+`yarn add @mui/icons-material`
 
 
 ### `react-router-dom`
 
-yarn add react-router-dom
+`yarn add react-router-dom`
 
 ### `date-fns`
 
-yarn add date-fns
+`yarn add date-fns`
 
 
 
