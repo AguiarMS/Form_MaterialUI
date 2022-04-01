@@ -7,26 +7,26 @@ Dependencias Instaladas:
 // usando npm <br>
 `npm install @mui/material @emotion/react @emotion/styled`
 
-// usando yarn
+// usando yarn <br>
 `yarn add @mui/material @emotion/react @emotion/styled`
 
 
-// usando npm
+// usando npm <br>
  `npm install @mui/material @mui/styled-engine-sc styled-components`
 
-// usando yarn
+// usando yarn <br>
 `yarn add @mui/material @mui/styled-engine-sc styled-components`
 
 ### Dentro do Public.html
 
-### `Fonte Roboto`
+### `Fonte Roboto` <br>
 
 `<link
   rel="stylesheet"
   href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
 />`
 
-### `Ícones de fonte`
+### `Ícones de fonte` <br>
 
 `<link
   rel="stylesheet"
@@ -37,10 +37,10 @@ Dependencias Instaladas:
 ### `Ícones SVG`
 
 
-// usando npm
+// usando npm <br>
 `npm install @mui/icons-material`
 
-// usando yarn
+// usando yarn <br>
 `yarn add @mui/icons-material`
 
 
