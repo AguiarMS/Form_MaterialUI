@@ -18,6 +18,10 @@ export const CheckoutPage = () => {
     navigate('/')
   }
 
+  function AlertMsg() {
+    alert('Compra realizada com sucesso !!!')
+  }
+
 
   return (
     <Container sx={{
@@ -93,7 +97,8 @@ export const CheckoutPage = () => {
         </Box>
 
         <CardContent sx={{
-          maxWidth: '700px'
+          maxWidth: '700px',
+          margin: '10px'
         }}>
           <Grid Container spacing={1} >
             <Grid xs={12} sm={6} item sx={{
@@ -101,7 +106,6 @@ export const CheckoutPage = () => {
               display: 'flex',
               justifyContent: 'space-between',
               alignItems: 'flex-start',
-              margin: '10px'
             }}>
 
 
@@ -153,7 +157,13 @@ export const CheckoutPage = () => {
               Voltar
             </Button>
 
-            <Button className="btn-buy" variant="contained">Realizar Pagamento</Button>
+            <Button
+              className="btn-buy"
+              variant="contained"
+              onClick={AlertMsg}
+            >
+              Realizar Pagamento
+            </Button>
 
 
           </Box>
