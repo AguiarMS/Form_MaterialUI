@@ -56,6 +56,10 @@ Dependencias Instaladas:
 ![image](https://user-images.githubusercontent.com/40027096/161350182-48f50c61-2993-4b52-9004-c61d9b06d5a5.png)
 
 
+![image](https://user-images.githubusercontent.com/40027096/161481937-9160ada7-0dfd-4670-a0ac-727d3157e8f7.png)
+
+
+
 
 
 
